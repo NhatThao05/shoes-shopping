@@ -10,6 +10,7 @@
     "@mui/core": "^5.0.0-alpha.54",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.10.1",
+    "@mui/styles": "^5.9.3",
     "@stripe/react-stripe-js": "^1.10.0",
     "@stripe/stripe-js": "^1.35.0",
     "@testing-library/jest-dom": "^5.16.5",
